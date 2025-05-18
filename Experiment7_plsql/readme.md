@@ -53,7 +53,10 @@ END;
 **Expected Output:**  
 Greater number is: 80
 
-![alt text](op1.png)
+![op1](https://github.com/user-attachments/assets/bf3a9d16-c93f-44c4-a3d3-7c86035b72a0)
+
+![op1](https://github.com/user-attachments/assets/037f5706-b092-4ec2-b8be-100a0f9be16f)
+
 
 ---
 
@@ -84,8 +87,9 @@ END;
 
 **Expected Output:**  
 Sum of first 10 natural numbers is: 55
+![op2](https://github.com/user-attachments/assets/5c8fc36e-ff88-46bc-b7a4-caeb0043508f)
 
-![alt text](op2.png)
+![op2](https://github.com/user-attachments/assets/77897a77-73c1-4b58-87c9-69b415e18b4d)
 
 ---
 
@@ -122,8 +126,8 @@ END;
 **Expected Output:**  
 n = 7  
 Fibonacci sequence: 0, 1, 1, 2, 3, 5, 8
-
-![alt text](op3.png)
+![op3](https://github.com/user-attachments/assets/0c7d6b8b-7c84-48ca-84ed-b9a3d1fa704b)
+![op3](https://github.com/user-attachments/assets/98573579-a3d8-4754-a7e7-6bdf8c1ca843)
 
 ---
 
@@ -154,8 +158,8 @@ END;
 **Expected Output:**  
 n = 1535  
 Reversed number is 5351
-
-![alt text](op4.png)
+![op4](https://github.com/user-attachments/assets/9eda37b7-4b0f-4f8d-92bd-d5c3e0521dde)
+![op4](https://github.com/user-attachments/assets/ef170dab-e411-4b55-b4ce-2984881e139f)
 
 ---
 
@@ -190,8 +194,8 @@ END;
 **Expected Output:**  
 a = 10, b = 9, c = 15  
 Largest of three number is 15
-
-![alt text](op5.png)
+![op5](https://github.com/user-attachments/assets/9db2e363-56cc-4657-aab9-9ac371a72d14)
+![op5](https://github.com/user-attachments/assets/f9194e7d-cad7-49fb-8e3d-6f7dbb052e52)
 
 ---
 ## RESULT
