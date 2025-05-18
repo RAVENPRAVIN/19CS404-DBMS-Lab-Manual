@@ -91,7 +91,7 @@ Factorial of 5 is 120
 
 **Expected Output:**  
 12 is Even
-
+![op3](https://github.com/user-attachments/assets/6de0f1e0-efae-480d-9ed3-54b82ed783cb)
 ---
 
 ## 4. Write a PL/SQL Function to Return the Reverse of a Number
@@ -105,7 +105,8 @@ Factorial of 5 is 120
 
 **Expected Output:**  
 Reversed number of 1234 is 4321
-![op3](https://github.com/user-attachments/assets/6de0f1e0-efae-480d-9ed3-54b82ed783cb)
+
+![op4](https://github.com/user-attachments/assets/402d8536-aed9-4ae2-85c6-8d49ec5c1384)
 
 ---
 
